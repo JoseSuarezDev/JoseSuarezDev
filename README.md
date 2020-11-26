@@ -19,11 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/josesuarezdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/josesuarezdev" height="30" width="40" /></a>
+<a href="https://dev.to/josesuarezdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/josesuarezdev" height="30" width="40" /></a>
 <a href="https://twitter.com/leiitox" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="leiitox" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/josé-l-suárez-s-913176183" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/josé-l-suárez-s-913176183" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/leonard01/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/leonard01/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/leonciosua/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/leonciosua/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/josé-l-suárez-s-913176183" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/josé-l-suárez-s-913176183" height="30" width="40" /></a>
+<a href="https://fb.com/leonard01/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/leonard01/" height="30" width="40" /></a>
+<a href="https://instagram.com/leonciosua/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/leonciosua/" height="30" width="40" /></a>
 <a href="https://medium.com/@leonardosuarezdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@leonardosuarezdev" height="30" width="40" /></a>
 </p>
 
